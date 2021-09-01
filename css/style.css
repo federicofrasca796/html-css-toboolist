@@ -2,18 +2,31 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
-    background-color: #F6F8F9;
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
 /* Common */
-
+body{
+    background-color: #e4e8eb;
+}
 
 /* Utility */
 
 
 /* Header */
-
+#main-header{
+    background-color: white;
+}
+.logo{
+    display:flex;
+    font-weight: 900;
+    font-size: 2.5rem;
+    align-items: center;
+    padding: 15px;
+}
+.logo-txt{
+    margin-left: 1rem;
+}
 
 /* Main */
 
