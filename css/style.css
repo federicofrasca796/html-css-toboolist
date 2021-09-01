@@ -36,6 +36,62 @@ body{
     font-size: 70%;
     /* vertical-align: text-top; */
 }
+/* ----> TAGS */
+.blue-tag{
+    margin: 5px;
+    padding: .4rem 0.7rem;
+    font-size: .6rem;
+    background-color: #5CB6F3;
+    color: white;
+    border-radius: 10px;
+    vertical-align: text-bottom;
+}
+.purple-tag{
+    margin: 5px;
+    padding: .4rem 0.7rem;
+    font-size: .6rem;
+    background-color: #5CB6F3;
+    color: white;
+    border-radius: 10px;
+    vertical-align: text-bottom;
+}
+.vinaccia-tag{
+    margin: 5px;
+    padding: .4rem 0.7rem;
+    font-size: .6rem;
+    background-color: #5CB6F3;
+    color: white;
+    border-radius: 10px;
+    vertical-align: text-bottom;
+}
+.green-tag{
+    margin: 5px;
+    padding: .4rem 0.7rem;
+    font-size: .6rem;
+    background-color: #5CB6F3;
+    color: white;
+    border-radius: 10px;
+    vertical-align: text-bottom;
+}
+.orange-tag{
+    margin: 5px;
+    padding: .4rem 0.7rem;
+    font-size: .6rem;
+    background-color: #5CB6F3;
+    color: white;
+    border-radius: 10px;
+    vertical-align: text-bottom;
+}
+.lightgreen-tag{
+    margin: 5px;
+    padding: .4rem 0.7rem;
+    font-size: .6rem;
+    background-color: #5CB6F3;
+    color: white;
+    border-radius: 10px;
+    vertical-align: text-bottom;
+}
+
 
 /* Header */
 #main-header{
@@ -106,10 +162,6 @@ body{
     border-radius: 50%;
 }
 
-    /* tags */
-.blue-tag{
-    
-}
 
 
 /* Footer */
