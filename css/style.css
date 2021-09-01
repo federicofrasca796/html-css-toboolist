@@ -44,7 +44,6 @@ body{
     background-color: #5CB6F3;
     color: white;
     border-radius: 10px;
-    vertical-align: text-bottom;
 }
 .purple-tag{
     margin: 5px;
@@ -53,7 +52,6 @@ body{
     background-color: #A37CE6;
     color: white;
     border-radius: 10px;
-    vertical-align: text-bottom;
 }
 .vinaccia-tag{
     margin: 5px;
@@ -62,7 +60,6 @@ body{
     background-color: #DA6AA6;
     color: white;
     border-radius: 10px;
-    vertical-align: text-bottom;
 }
 .green-tag{
     margin: 5px;
@@ -71,7 +68,6 @@ body{
     background-color: #6BC2AC;
     color: white;
     border-radius: 10px;
-    vertical-align: text-bottom;
 }
 .orange-tag{
     margin: 5px;
@@ -80,7 +76,6 @@ body{
     background-color: #F3A33C;
     color: white;
     border-radius: 10px;
-    vertical-align: text-bottom;
 }
 .lightgreen-tag{
     margin: 5px;
@@ -131,10 +126,10 @@ body{
 }
 .task-list{
     font-weight: 500;
-    padding: 2% 0%;
+    /* padding: 2% 0%; */
     color: rgb(77, 73, 73) ;
     list-style: none;
-    /* line-height: 1.5rem; */
+    line-height: 190%;
 
 }
 .task-done{
