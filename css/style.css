@@ -31,6 +31,10 @@ body{
     color:white;
     border:#e4e8eb;
 }
+.symbol{
+    font-size: 70%;
+    /* vertical-align: text-top; */
+}
 
 /* Header */
 #main-header{
@@ -56,6 +60,38 @@ body{
 }
 .button-section{
     padding: 1rem 5%;
+}
+.task-section{
+    
+    color: rgb(112, 115, 117);
+    font-weight: bold;
+    vertical-align: text-bottom;
+}
+.task-list{
+    list-style: none;
+    line-height: 1.5rem;
+}
+.task-done{
+    padding:3px;
+    font-size: 80%;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 13px;
+    color: #20c99e;
+    border: 1.5px solid;
+    border-radius: 50%;
+}
+.task-fail{
+    font-size: 70%;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 13px;
+    padding:3px;
+    color: #db4a31;
+    border: 1.5px solid;
+    border-radius: 50%;
 }
 
 /* Footer */
