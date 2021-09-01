@@ -110,10 +110,10 @@ body{
 
 /* Main */
 #main-container{
-    width: 80%;
+    width: 70%;
     margin: 100px auto;
     background-color: white;
-    border-radius: 5px 5px 0px 0px;
+    border-radius: 5px;
 }
 .button-section{
     padding: 1rem 5%;
