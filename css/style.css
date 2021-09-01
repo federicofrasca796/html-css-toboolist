@@ -11,7 +11,26 @@ body{
 }
 
 /* Utility */
-
+.primary-cta{
+    margin 5px;
+    padding: 0.4rem 0.6rem;
+    background-color: #5CB6F3;
+    color: white;
+    border:0;
+    border-radius: 5px;
+}
+.secondary-cta{
+    margin 5px;
+    padding: 0.3rem 0.5rem;
+    color: lightgrey;
+    background-color: white;
+    border: 2px solid lightgrey;
+    border-radius: 5px;
+}
+.divisor{
+    color:white;
+    border:#e4e8eb;
+}
 
 /* Header */
 #main-header{
@@ -29,6 +48,15 @@ body{
 }
 
 /* Main */
-
+#main-container{
+    width: 80%;
+    margin: 100px auto;
+    background-color: white;
+    border-radius: 5px 5px 0px 0px;
+}
+.button-section{
+    
+    padding: 1rem;
+}
 
 /* Footer */
