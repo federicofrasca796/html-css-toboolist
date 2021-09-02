@@ -27,13 +27,16 @@ body{
     border: 2px solid lightgrey;
     border-radius: 5px;
 }
-.divisor{
+/* .divisor{
     background-color: #e4e8eb;
     border-style: solid;
     border-color: #e4e8eb;
-}
+} */
 .symbol{
-    font-size: 70%;
+    display:inline-block;
+    vertical-align: -webkit-baseline-middle;
+    font-size: 2rem;
+    padding-right: .8rem;
     /* vertical-align: text-top; */
 }
 /* ----> TAGS */
@@ -89,13 +92,13 @@ body{
 
 
 /* Header */
-#main-header{
+#site-header{
     background-color: white;
 }
 .logo{
     display:flex;
     font-weight: 900;
-    font-size: 2.5rem;
+    font-size: 1.8rem;
     align-items: center;
     padding: 15px;
 }
@@ -112,6 +115,7 @@ body{
 }
 .button-section{
     padding: 1rem 5%;
+    border-bottom:2px solid #e4e8eb;
 }
 .task-container{
     padding: 1rem 5%;
